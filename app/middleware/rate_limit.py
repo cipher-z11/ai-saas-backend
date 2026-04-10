@@ -1,4 +1,4 @@
-# fix: project initialization and database setup
+# fix: integrate Razorpay payment gateway
 """
 Rate limiting middleware based on subscription plan.
 Uses Redis for distributed counter storage.
