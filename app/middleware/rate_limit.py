@@ -1,4 +1,4 @@
-# fix: integrate Razorpay payment gateway
+# fix: implement payment verification webhook
 """
 Rate limiting middleware based on subscription plan.
 Uses Redis for distributed counter storage.
