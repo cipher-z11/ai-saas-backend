@@ -1,4 +1,4 @@
-# fix: implement payment verification webhook
+# fix: add Redis based rate limiting middleware
 """
 Rate limiting middleware based on subscription plan.
 Uses Redis for distributed counter storage.
