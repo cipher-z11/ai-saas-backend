@@ -75,3 +75,5 @@ def get_me(current_user: User = Depends(get_current_user)):
         "email": current_user.email,
         "plan": current_user.subscription.plan.value if current_user.subscription else "free",
     }
+
+# Integrate Razorpay payment gateway
