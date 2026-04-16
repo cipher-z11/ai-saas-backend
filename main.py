@@ -1,3 +1,4 @@
+# fix: build LLM chat and summarize endpoints
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from app.routes import auth, subscription, ai
