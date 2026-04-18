@@ -1,4 +1,4 @@
-# fix: add User Subscription and APIUsage models
+# fix: add API usage tracking per user
 from sqlalchemy import create_engine
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker
