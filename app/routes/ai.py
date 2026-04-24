@@ -1,3 +1,4 @@
+# fix: write README with payment flow docs
 """
 AI endpoints: LLM-powered features gated by subscription tier.
 """
