@@ -1,4 +1,4 @@
-# fix: add subscription tiers Free Pro Enterprise
+# fix: final testing and cleanup
 from pydantic_settings import BaseSettings
 
 class Settings(BaseSettings):
