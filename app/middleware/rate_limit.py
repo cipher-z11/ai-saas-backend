@@ -79,3 +79,5 @@ def get_usage_stats(user_id: int, plan: str) -> dict:
         "plan": plan,
         "percentage_used": round((used / limit) * 100, 2),
     }
+
+# Final testing
