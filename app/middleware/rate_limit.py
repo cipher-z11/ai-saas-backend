@@ -1,3 +1,4 @@
+# updated: 2026-05-07
 """
 Rate limiting middleware based on subscription plan.
 Uses Redis for distributed counter storage.
