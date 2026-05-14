@@ -1,3 +1,4 @@
+# updated: 2026-05-14
 # fix: implement JWT auth register and login
 from datetime import datetime, timedelta
 from typing import Optional
